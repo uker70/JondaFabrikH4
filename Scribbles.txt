@@ -1,0 +1,12 @@
+﻿Important info:
+
+1. 250 cars must be produces pr day (24 hours (is made into 144 seconds testing purpose, since 144 * 10 / 60 is 24, therefor 144 min in a day))
+2. a car takes 2:25 hours to produce
+3. the steps are the following: 
+	1. body plates(2 hours(120 min))
+	2. assemble body(1,33 hours(80 min))
+	3. paint body(0,66 hours(40 min))
+	4. put wheels on car(0,25 hours(15 min))
+	5. put engine in?(no time requirement specified, so chose the following: 0,20 hours(10 min))
+
+4. while amount of workers are mentioned, i will not be using said number, since there is no mention of faster worktime if given more workers
